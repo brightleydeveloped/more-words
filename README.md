@@ -10,7 +10,7 @@ Used by [acronym](https://github.com/patlillis/acronym).
 ## Install
 
 ```
-$ npm install --save acronym
+$ npm install --save more-words
 ```
 
 
